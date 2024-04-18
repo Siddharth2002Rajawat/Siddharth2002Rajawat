@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Siddharth2002Rajawat
 - 👀 I’m interested in Robotics
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning ROS2
 - 💞️ I’m looking to collaborate on Projects
 - 📫 My instgram id is iamsiddhartharajawat
 
